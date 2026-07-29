@@ -10,7 +10,7 @@
 - [요구사항 명세서(SRS)](./01-planning/srs.md)
 - [유스케이스](./01-planning/use-cases.md)
 - [사용자 시나리오](./01-planning/user-scenarios.md)
-- [비기능 요구사항](./01-planning/nfr-requirements.md)
+- [비기능 요구사항](./01-planning/nfr.md)
 
 ### 02. 설계
 
