@@ -4,7 +4,7 @@
 
 ### 시스템 다이어그램
 
-(텍스트로 아스키 다이어그램 또는 이미지 링크)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f6ab2810-0c53-40b8-af1c-1a17be9caa98" />
 
 ### 설명
 
