@@ -5,6 +5,8 @@
 ### 시스템 다이어그램
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f6ab2810-0c53-40b8-af1c-1a17be9caa98" />
+<img width="1286" height="1182" alt="image" src="https://github.com/user-attachments/assets/6abe3cf1-38d8-4cfb-9ec5-9204e92d9de7" />
+
 
 ### 설명
 
